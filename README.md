@@ -20,7 +20,7 @@ Newsletter Subscription: Allows users to sign up for updates and special offers.
 
 Footer Section: Provides contact details, social media links, and additional information about the store.
 
-Technologies Used
+<b>Technologies Used<b>
 
 HTML5: Structuring the webpage content.
 
